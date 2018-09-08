@@ -11,5 +11,11 @@ Documentation of the most current robotics project is done on the [wiki](https:/
 ## code
 All code for the robotics projects can be found [here](https://github.com/arockenberger/robotronikk/tree/master/code).
 
+## schematics
+Schematics for the circuit boards and wiring
+
+## images
+Any images: drawings, CAD, photos
+
 ## name
 The name of the repo – robotronikk – is a trifold homage: first, to my home region, the Thuringian Forest, where during the German Democratic Republic-period a devision of the [Kombinat Robotron](https://en.wikipedia.org/wiki/VEB_Robotron) factories was located. Second, it is a reference to my love for the Slavonic, especially the Russian language where the word 'robot' derived from the verb 'to work' comes from. Third, it makes use of a peculiarity of the Norwegian language (the language of my chosen home country) that ends words on k with a double hard consonant 'kk', like musikk, informatikk etc.
